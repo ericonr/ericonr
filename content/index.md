@@ -19,13 +19,17 @@ Clique [aqui](blog)!
 
 ---
 
+For an initial introduction, take a look at my [first blog post](blog/hello-world).
+
 **Name**: Érico Nogueira Rolim
 
 **E-mail**: *classified*
 
-**Twitter**: I should probably use more often
+**Twitter**: [@JumpingUnicorn3](https://twitter.com/JumpingUnicorn3) - I should
+probably use this more often
 
-**IRC**: "ericonr" or "ericonr_", depending on how cooperative my internet connection has been
+**IRC**: "ericonr" or "ericonr\_" on Freenode, depending on how cooperative my
+internet connection has been
 
 **Mastodon**: I should probably create one
 

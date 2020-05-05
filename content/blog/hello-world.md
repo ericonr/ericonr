@@ -29,7 +29,7 @@ organização Void Linux, no time de documentação.
 
 All this to say that I can write code like:
 
-```c
+```cpp
 #include <stdio.h>
 
 int main()
@@ -46,7 +46,7 @@ print('Hello world!')
 
 but I can also write code like
 
-```c
+```cpp
 #include <hal.h>
 
 int main()

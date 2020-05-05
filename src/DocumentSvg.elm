@@ -12,7 +12,7 @@ strokeColor =
 
 
 pageTextColor =
-    "black"
+    "white"
 
 
 fillColor =
@@ -25,8 +25,8 @@ fillColor =
 
 fillGradient =
     gradient
-        (Color.rgb255 5 117 230)
-        (Color.rgb255 0 242 96)
+        (Color.rgb255 214 2 112)
+        (Color.rgb255 0 56 168)
 
 
 
