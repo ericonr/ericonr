@@ -1,4 +1,4 @@
 ---
-title: Érico's blog
+title: Érico's projects
 type: blog-index
 ---

@@ -1,14 +1,38 @@
 ---
-title: elm-pages-starter - a simple blog starter
+title: Érico's
 type: page
 ---
 
-This is an example repo to get you up and running with `elm-pages`.
+## Hello!
 
-The entrypoint file is `index.js`. That file imports `src/Main.elm`. The `content` folder is turned into your static pages. The rest is mostly determined by logic in the Elm code! Learn more with the resources below.
+This is a personal blog, for projects and thoughts. We'll see how it goes.
 
-## Learn more about `elm-pages`
+Click [here](blog)!
 
-- Documentation site: https://elm-pages.com
-- [Elm Package docs](https://package.elm-lang.org/packages/dillonkearns/elm-pages/latest/)
-- [`elm-pages` blog](https://elm-pages.com/blog)
+---
+
+## Olá!
+
+Esse é um blog pessoal, para projetos e pensamentos. Vamos ver o que que sai.
+
+Clique [aqui](blog)!
+
+---
+
+**Name**: Érico Nogueira Rolim
+
+**E-mail**: *classified*
+
+**Twitter**: I should probably use more often
+
+**IRC**: "ericonr" or "ericonr_", depending on how cooperative my internet connection has been
+
+**Mastodon**: I should probably create one
+
+**Occupation**: Embedded systems engineer
+
+**Technical hobbies**: Systems programming, documentation
+
+**Other hobbies**: Photography, music
+
+**Languages**: Português, English

@@ -1,7 +1,7 @@
 ---
 {
   "type": "blog",
-  "author": "Dillon Kearns",
+  "author": "Érico Nogueira",
   "title": "A Draft Blog Post",
   "description": "I'm not quite ready to share this post with the world",
   "image": "images/article-covers/mountains.jpg",
