@@ -1,4 +1,0 @@
----
-title: Érico's blog
-type: blog-index
----

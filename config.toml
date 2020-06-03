@@ -1,0 +1,36 @@
+baseURL = "http://ericonr.github.io/"
+languageCode = "en-us"
+title = "Érico's place"
+theme = "smol"
+publishdir = "dist"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1
+
+  [[menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects/"
+        weight = 2
+
+  [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+        weight = 3
+
+# Footer
+  [[menu.footer]]
+        name = "Github"
+        url = "https://github.com/ericonr"
+        weight = 1
+
+    [[menu.footer]]
+        name = "Twitter"
+        url = "https://twitter.com/JumpingUnicorn3"
+        weight = 2
