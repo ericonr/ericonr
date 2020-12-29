@@ -33,7 +33,7 @@ internet connection has been
 
 **Mastodon**: I should probably sign up
 
-**Occupation**: Embedded systems engineer
+**Occupation**: Mainly student, but also embedded systems engineer
 
 **Technical hobbies**: Systems programming, documentation
 
