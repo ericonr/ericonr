@@ -1,4 +1,4 @@
-baseURL = "http://ericonr.github.io/"
+baseURL = "https://erico.dev"
 languageCode = "en-us"
 title = "Érico's place"
 theme = "smol"
@@ -29,8 +29,7 @@ publishdir = "dist"
         name = "Github"
         url = "https://github.com/ericonr"
         weight = 1
-
-    [[menu.footer]]
-        name = "Twitter"
-        url = "https://twitter.com/JumpingUnicorn3"
-        weight = 2
+  [[menu.footer]]
+        name = "Gitea"
+        url = "https://git.erico.dev"
+        weight = 1
