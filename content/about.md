@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2020-06-03T02:37:50-03:00
+date: 2022-06-30T17:25:50-03:00
 draft: false
 ---
 
@@ -28,12 +28,11 @@ For an initial introduction, take a look at my [first blog post](/posts/hello-wo
 
 **E-mail**: *classified*
 
-**IRC**: "ericonr" or "ericonr\_" on Freenode, depending on how cooperative my
-internet connection has been
+**IRC**: "ericonr" on Libera and OFTC
 
-**Mastodon**: I should probably sign up
+**Mastodon**: [@ericonr@mastodon.online](https://mastodon.online/@ericonr)
 
-**Occupation**: Mainly student, but also embedded systems engineer
+**Occupation**: Student at [University of Campinas](https://www.unicamp.br/unicamp/) and intern at [Sirius Synchrotron Light Source](https://www.lnls.cnpem.br/sirius-en/)
 
 **Technical hobbies**: Systems programming, documentation
 
